@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # Data & Output folders
-data/
-maps/
+data/*
+maps/*
+!maps/china_map_full.png
